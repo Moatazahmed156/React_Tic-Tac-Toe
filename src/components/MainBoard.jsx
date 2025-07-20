@@ -2,7 +2,7 @@ import { useState } from "react";
 import GameBoard from "./GameBoard";
 import PlayersBar from "./PlayersBar";
 import Log from "./Log";
-import GameOver from "./Gameover";
+import GameOver from "./GameOver";
 import {
   deriveGameBoard,
   deriveWinner,
